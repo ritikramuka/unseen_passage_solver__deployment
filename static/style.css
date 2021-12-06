@@ -1,0 +1,26 @@
+.main{
+    width: 90%;
+    height: auto;
+    border: solid 2px;
+}
+
+.passage {
+    width: 40%;
+    height: auto;
+    border: solid 2px;
+}
+
+.ques {
+    width: 40%;
+    height: auto;
+    border: solid 2px;
+}
+
+#unseen_Pass {
+    width: 100%;
+    height: 300px;
+}
+#ques_input {
+    width: 100% ;
+    height: 100px;
+}
